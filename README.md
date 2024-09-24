@@ -1,4 +1,4 @@
-                             ![Data Analysis Workspace](https://github.com/Rose-Favour/Rose-Favour/blob/main/DATA%20VIZ.JPG)
+![Data Analysis Workspace](https://github.com/Rose-Favour/Rose-Favour/blob/main/DATA%20VIZ.JPG)
 
 # 👋 Hello, I'm Rose Mungai!
 
