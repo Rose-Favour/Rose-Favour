@@ -1,4 +1,4 @@
-![Data Analysis Workspace](https://github.com/Rose-Favour/Rose-Favour/blob/main/DATA%20VIZ.JPG)
+                             ![Data Analysis Workspace](https://github.com/Rose-Favour/Rose-Favour/blob/main/DATA%20VIZ.JPG)
 
 # 👋 Hello, I'm Rose Mungai!
 
@@ -25,8 +25,6 @@ I'm a data analyst passionate about turning data into actionable insights. My pr
 - Automating workflows with Python
 
 ## 💬 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website/Blog](https://yourwebsite.com)
+- (https://www.linkedin.com/in/rose-mungai/)
 
 Feel free to explore my repositories to see some of the projects I've been working on. Let's collaborate and learn together!
