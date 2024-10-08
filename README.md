@@ -8,8 +8,10 @@ I'm a data analyst passionate about turning data into actionable insights. My pr
 ## 🛠️ Technologies & Tools:
 - **Python**: pandas, numpy, matplotlib, seaborn
 - **Power BI**: Data visualization and reporting
+- **Looker**;Data visualization and reporting
+- **Tableau**;Data visualization and reporting
 - **SQL**: Database management, queries, and optimization
-- **Machine Learning**: scikit-learn, working knowledge in progress
+- **Machine Learning**: scikit-learn
 - **Version Control**: Git, GitHub
 
 ## 🌱 Currently Learning:
